@@ -1,2 +1,1 @@
-this is a test file
-add some news
+this project use for collecting smartctl info push to open-falcon agent ,It's a plugin.
